@@ -44,13 +44,5 @@ See [my homepage](https://researchmap.jp/taikiyamada?lang=en).
 If you use this code in your research, please considering cite our paper:
 
 ```
-@misc{yamada2023newallocationruledirected,
-      title={New allocation rule of directed hypergraphs}, 
-      author={Taiki Yamada},
-      year={2023},
-      eprint={2110.06506},
-      archivePrefix={arXiv},
-      primaryClass={cs.GT},
-      url={https://arxiv.org/abs/2110.06506}, 
-}
+
 ```
